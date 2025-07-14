@@ -113,7 +113,7 @@ Inicia el bot nuevamente:
 
 ### **`👑 CREADOR`**
 <a
-href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="130" height="130" alt="David"/></a>
+href="https://github.com/Technolobito"><img src="https://github.com/Technolobito.png" width="130" height="130" alt="Lobito"/></a>
 
 ## **`⭐ CRÉDITOS`**
 <a
